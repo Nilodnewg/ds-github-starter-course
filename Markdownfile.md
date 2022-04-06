@@ -1,4 +1,4 @@
-# What I have learned
+# What I have learned :tada:
 It is possible to user **GitHub** to work _together_ with other _p**eo**ple_  at the same project.
 ## What I really learnded
 ```
@@ -6,6 +6,11 @@ It is possible to user **GitHub** to work _together_ with other _p**eo**ple_  at
 2. Not to leave blanks
 ```
 ###### What I haven't learned yet 
->I am not sure how to use `Github` the right way. [^1]
-<--!Not to read!-->
-[^1] as if 
+>I am not sure how to use `Github` the right way[^1].
+
+<!-- Not to read -->
+
+ - [x] To Do
+ - [ ] Dings
+
+[^1]: as if 
